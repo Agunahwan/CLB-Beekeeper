@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CLB Farm Beekeeper</string>
+
+    <string name="splash_screen_logo">CLB Farm Beekeeper v1.0</string>
+
+    // String Login
+    <string name="text_logo">CLB Farm Beekeeper</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="msg_loading">Harap Tunggu...</string>
+    <string name="prompt_empty">Username dan Password harus diisi</string>
+    <string name="prompt_failed_response">Gagal mendapatkan respon</string>
+    <string name="prompt_success_login">Berhasil Login</string>
+    <string name="action_login">Login</string>
+    <string name="title_activity_main">CLB Farm Beekeeper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CLB Farm Beekeeper</string>
+    <string name="nav_header_subtitle">For Beekeeper</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_kotak">Tambah Kotak</string>
+
+    <string name="menu_jadwal">Jadwal</string>
+    <string name="menu_box">Data Kotak</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="select_picture">Select Picture...</string>
+
+    <!--Alert-->
+    <string name="alert_not_camera">Sorry! Your device doesn\'t support camera</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

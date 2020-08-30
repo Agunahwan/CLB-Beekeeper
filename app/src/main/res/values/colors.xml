@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#71BE5A</color>
+    <color name="colorPrimaryDark">#71BE5A</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorOwnerRow">#403fc68b</color>
+
+    <!--text color -->
+    <color name="textColor">#273d52</color>
+    <color name="headerColor">#145795</color>
+
+    <color name="colorVarietyText">#ffffff</color>
+    <color name="colorVarietyButton">#90C551</color>
+</resources>
